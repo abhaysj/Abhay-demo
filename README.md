@@ -1,3 +1,3 @@
 # Abhay-demo
 this is my github repository
-atuhor- Abhay S J
+Author- Abhay S J
